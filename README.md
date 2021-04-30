@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LonelySpaceDog
-- 👀 I’m interested in Backend development
+- 👀 I’m interested in many things
 <!--- 🌱 I’m currently learning Node.js and Rust--->
 - 🍄 My current level is Junior
 <!--- 💞️ I’m looking to collaborate on ... --->
